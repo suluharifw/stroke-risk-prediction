@@ -1,6 +1,10 @@
 <h1 align="center">Stroke Risk Prediction</h1>
 
 <p align="center">
+Created by <b>Suluh Arif Wibowo</b>
+</p>
+
+<p align="center">
   <em>An end-to-end machine-learning project — from raw data to a deployed, interactive web app.</em>
 </p>
 
@@ -174,3 +178,15 @@ make lint     # ruff
 ## License
 
 Released under the [MIT License](LICENSE).
+
+---
+
+## Author
+
+**Suluh Arif Wibowo**
+
+- Machine Learning Engineer
+- Palembang, Indonesia
+- Email: suluharif.w@gmail.com
+- LinkedIn: https://linkedin/suluharifw
+- GitHub: https://github.com/suluharifw
